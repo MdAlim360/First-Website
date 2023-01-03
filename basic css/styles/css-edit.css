@@ -1,0 +1,57 @@
+*{margin: 0px; background-color: blac;}
+h1{text-align: center; 
+    background-image: url(../../images/study.jpg);
+    height: 500px;
+    background-size: cover; 
+    color: rgb(219, 38, 5); 
+    font-family: fantasy;
+
+
+}
+span{border-width: 10px;
+     border-style: solid;
+    border-color: rgb(247, 104, 22 
+    background-color:black); 
+border-radius: 30%; font-size: xx-large;}
+#firstline{color:red;background-color: aqua; border: 5px solid rgb(10, 132, 180); border-radius: 40%; text-align: center;font-size: xx-large; 
+box-shadow: 10px 10px 500px aqua}
+
+.bg-color{background-color:rgb(92, 196, 241) ; font-size:larger ;}
+.bg-color2{background-color: blueviolet;font-size: larger; }
+.placement{text-align: center;} 
+.placement2{text-align: center;}
+.messi{background-color: gold; font-size: larger;}
+a{ text-decoration: underline; color:blue; padding: 10px;background-color: gold; border: 5px solid yellow;border-radius: 5cm; box-shadow: 5px; 5px; 5px;}
+.border1{border-width: 5px;
+         border-style: solid;
+        border-color: rgb(227, 39, 237); 
+    border-radius: 5cm; 
+    background-color: deeppink; 
+    padding-left: 20px; 
+    box-shadow: 10px 10px 200px yellow; 
+    font-size: larger; 
+    margin-bottom: 5px;
+}
+.clr{padding-left: 20px; color:rgb(16, 247, 70)} 
+.border2{border-width: 5px;
+border-style: solid;
+border-color: fuchsia;
+background-color:deeppink ;
+padding-left: 20px;
+font-size: larger; 
+border-radius: 5cm;
+box-shadow: 10px 10px 200px yellow;
+margin-bottom: 7px;}
+.box{border-width: 5px;
+border-style: solid;
+border-color: red; 
+ 
+background-color: black;
+
+}
+.link{text-align: center;
+   background-image: url(../../images/bgs.png); 
+height: 500px;}
+
+
+  
